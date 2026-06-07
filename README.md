@@ -1,6 +1,6 @@
 # 📰 Automated Fake News Detection System using SAS Viya
 
-This repository contains the complete data science pipeline and datasets for an automated **Fake News Detection System** built within the SAS Viya Model Studio environment. The project evaluates and compares three machine learning frameworks—**Support Vector Machine (SVM)**, **Forest Ensemble**, and a **Bayesian Network**—to accurately classify authentic and deceptive text streams.
+This repository contains the complete machine learning pipeline and datasets for an automated **Fake News Detection System** built within the SAS Viya Model Studio environment. The project evaluates and compares three machine learning frameworks Support Vector Machine (SVM), Forest Ensemble, and a Bayesian Network to accurately classify authentic and deceptive text streams.
 
 ---
 
